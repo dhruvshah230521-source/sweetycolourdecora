@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Srushti Shah",
+    "phone": "+919876543210",
+    "email": "test@example.com",
+    "address": "Indiranagar, Bengaluru",
+    "preferredDate": "2026-09-15",
+    "notes": "Full living room renovation",
+    "aiDesignData": {
+      "roomType": "Living Room",
+      "style": "Warm Minimalist",
+      "areaSqFt": 280,
+      "city": "Bengaluru",
+      "estimateExpected": "₹9.91L",
+      "estimateRange": "₹8.42L – ₹11.39L"
+    },
+    "timestamp": "2026-09-10T20:35:18.755Z"
+  },
+  {
+    "name": "Rohit Sharma",
+    "phone": "+91 99887 66554",
+    "email": "rohit.sharma@example.com",
+    "city": "Ahmedabad",
+    "projectType": "Renovation",
+    "address": "Bopal, Ahmedabad, Gujarat",
+    "notes": "Complete interior renovation for 4BHK bungalow",
+    "aiDesignData": {
+      "roomType": "Master Bedroom",
+      "style": "Japandi",
+      "areaSqFt": 350,
+      "city": "Ahmedabad",
+      "estimateExpected": "₹18.4L",
+      "estimateRange": "₹15.6L – ₹21.2L"
+    },
+    "timestamp": "2026-09-10T21:08:40.433Z"
+  },
+  {
+    "name": "Naveen Jindal",
+    "phone": "+91 98450 99887",
+    "email": "naveen@jindal.com",
+    "city": "Bengaluru",
+    "projectType": "Renovation",
+    "address": "Prestige Golfshire, Bengaluru",
+    "notes": "Luxury villa interior and finish renovation",
+    "aiDesignData": {
+      "roomType": "Living Room",
+      "style": "Modern",
+      "areaSqFt": 300,
+      "city": "Bengaluru",
+      "estimateExpected": "₹6.27L",
+      "estimateRange": "₹5.33L – ₹7.21L"
+    },
+    "timestamp": "2026-09-10T21:09:12.900Z"
+  }
+]
